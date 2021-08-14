@@ -9,3 +9,5 @@
 # developer
 
 ![image](https://user-images.githubusercontent.com/75046379/129452197-bac992fc-1067-4064-b914-e18feb0bb524.png)
+
+![image](https://user-images.githubusercontent.com/75046379/129452222-89a01b8b-9b31-4571-8dc5-73d0e6074afa.png)
