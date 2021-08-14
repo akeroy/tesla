@@ -3,21 +3,5 @@ tesla.lua for nixware
 
 # features
 
--improved resolver
--improved double tap
--customizable anti aim
--world hitmarker + dmg marker
--manual anti aim
--custom anti aim type's "static (gay)", "lowdelta", "super", "cum (p)", "custom"
--anti aim jitter
--improved fakelag
--fakelag min
--fakelag max
--legit anti aim (fucks skeet)
--anti aim indicator
--real body indicator
--force fakelag
--miss log
--hit log
--force onshot 'keybind'
+![image](https://user-images.githubusercontent.com/75046379/129452086-69bedb3b-a9a5-491f-a50e-cea015d7e36e.png)
                             *I will add more features.*
