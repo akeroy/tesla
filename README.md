@@ -20,4 +20,4 @@ tesla.lua for nixware
 -miss log
 -hit log
 -force onshot 'keybind'
-                            *I will add more features*
+                            *I will add more features.*
